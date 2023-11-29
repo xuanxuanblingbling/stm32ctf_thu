@@ -10,7 +10,7 @@
 
 #  相关物料
 
-附件：
+附件：https://github.com/xuanxuanblingbling/stm32ctf_thu/tree/master/attachment
 
 | 物料                 | 数量 |
 | -------------------- | ---- |
