@@ -8,9 +8,9 @@ HIDMouse Mouse(HID);
 
 void start(){
   for(int i = 0;i<6;i++){
-  digitalWrite(PC13, LOW); // ON
+  digitalWrite(PC13, LOW);
   delay(150);
-  digitalWrite(PC13, HIGH); // OFF
+  digitalWrite(PC13, HIGH);
   delay(150);
   }
 }
